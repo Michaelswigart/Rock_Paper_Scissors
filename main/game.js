@@ -1,0 +1,1 @@
+// I want to make a simple javescipt game wiht rock paper scissors game and use img tags for buttons need to find out how to do so. first step for javascript is to make the rules for the game. step 2 is to try to use img tags to for buttons.  And try to have fun with this\[T]/ -_-.
