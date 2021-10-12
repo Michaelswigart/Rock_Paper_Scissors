@@ -1,17 +1,22 @@
 
 /* use for the header */
 .score {
-
+    
 };
 
 
 /* use fore the body */
-.body_buttons{
-
+.body {
+    background-color: black;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
 };
 
 
-/* use for footer */
-.copy_rights{
 
+/* use for footer */
+.copy_rights {
+  
 };
