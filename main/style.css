@@ -10,7 +10,7 @@
 
 
 /* use fore the body */
-.body {
+#body {
     background-color: black;
     width: 300px;
     border: 15px solid green;
