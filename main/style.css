@@ -1,7 +1,11 @@
 
 /* use for the header */
 .score {
-    
+    background-color: black;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
 };
 
 
@@ -18,5 +22,5 @@
 
 /* use for footer */
 .copy_rights {
-  
+   
 };
